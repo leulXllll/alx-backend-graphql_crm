@@ -1,4 +1,1 @@
-[2025-07-13 02:00:01] Deleted 15 inactive customers.
-[2025-07-20 02:00:00] Deleted 7 inactive customers.
-[2025-07-27 02:00:00] Deleted 0 inactive customers.
-[2025-08-03 02:00:01] Deleted 22 inactive customers.
+0 2 * * 0 /path/to/crm/cron_jobs/clean_inactive_customers.sh
